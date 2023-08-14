@@ -1,3 +1,6 @@
+# View the webpage of the repository at 
+https://eddiechankaitaiuk.github.io/tictactoe-vuex
+
 # vuejs
 
 ## Project setup
